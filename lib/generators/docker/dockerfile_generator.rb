@@ -1,4 +1,4 @@
-require 'erubis'
+require 'rails/generators'
 
 module Docker
   class DockerfileGenerator < Rails::Generators::Base
